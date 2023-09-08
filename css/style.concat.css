@@ -333,7 +333,7 @@ body {
     @media only screen and (max-width: 56.25em) {
       .composition__photo {
         position: relative;
-        width: 33.33333333%;
+        width: 32.33333333%;
         box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.2); } }
     .composition__photo--p1 {
       left: 0;
