@@ -18,16 +18,16 @@ Here're some of the project's best features:
 
 *   THE 7-1 PATTERN using 7 different folders for partial Sass files and 1 main Sass file to import all other files into a compiled CSS stylesheet.
 *   BEM methodology
-*  • BLOCK: standalone component that is meaningful on its own.
-*  • ELEMENT: part of a block that has no standalone meaning.
-*  • MODIFIER: a different version of a block or an element.
+    *  BLOCK: standalone component that is meaningful on its own.
+    * ELEMENT: part of a block that has no standalone meaning.
+    * MODIFIER: a different version of a block or an element.
 *   COMPONENT-DRIVEN DESIGN
 *   CREATIVE ANIMATIONS : -pure css popup -pure css navigation animation
 *   checkbox hack
 *   RESPONSIVE IMAGES :The goal of responsive images is to serve the right image to the right screen size and device in order to avoid downloading unnecessary large images on smaller screens.
-*    •RESOLUTION SWITCHING
-*    •ART DIRECTION
-*    •DENSITY SWITCHING
+     * RESOLUTION SWITCHING
+     * ART DIRECTION
+     * DENSITY SWITCHING
 *   @supports feature queries
 
   
