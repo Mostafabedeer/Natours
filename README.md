@@ -30,7 +30,44 @@ Here're some of the project's best features:
      * DENSITY SWITCHING
 *   @supports feature queries
 
-  
+  ## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Mostafabedeer/Trillo
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run build:css
+```
+
+## Feedback
+
+If you have any feedback, please reach out to me at mostafabder2@gamil.com
+
   
 <h2>💻 Built with</h2>
 
